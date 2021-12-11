@@ -44,5 +44,5 @@ These files are uploaded to Google Drive and shared. Download these files to dat
 -	patent.tsv.gz
 -	patent_assignee.tsv.gz
 
-
+Google Drive link: https://drive.google.com/drive/u/1/folders/0ALYWzcdjawdNUk9PVA
 
