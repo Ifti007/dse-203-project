@@ -1,0 +1,5 @@
+.DS_Store
+datasets/.ipynb_checkpoints/
+datasets/patent.tsv.gz
+datasets/patent_assignee.tsv.gz
+
